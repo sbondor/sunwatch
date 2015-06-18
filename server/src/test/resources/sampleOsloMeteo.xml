@@ -1,0 +1,3148 @@
+<weatherdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.met.no/weatherapi/locationforecast/1.9/schema" created="2015-06-18T06:04:55Z">
+    <meta>
+        <model name="LOCAL" termin="2015-06-18T00:00:00Z" runended="2015-06-18T02:41:40Z" nextrun="2015-06-18T10:00:00Z" from="2015-06-18T07:00:00Z" to="2015-06-20T18:00:00Z"/>
+        <model name="EPS" termin="2015-06-17T12:00:00Z" runended="2015-06-17T21:47:42Z" nextrun="2015-06-18T10:00:00Z" from="2015-06-21T00:00:00Z" to="2015-06-27T06:00:00Z"/>
+    </meta>
+    <product class="pointData">
+        <time datatype="forecast" from="2015-06-18T07:00:00Z" to="2015-06-18T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="12.0"/>
+                <windDirection id="dd" deg="26.6" name="NE"/>
+                <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"/>
+                <humidity value="84.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1002.8"/>
+                <cloudiness id="NN" percent="100.0"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="100.0"/>
+                <mediumClouds id="MEDIUM" percent="100.0"/>
+                <highClouds id="HIGH" percent="17.9"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T06:00:00Z" to="2015-06-18T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.2" minvalue="0.1" maxvalue="0.3"/>
+                <symbol id="Drizzle" number="46"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T05:00:00Z" to="2015-06-18T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.3" minvalue="0.2" maxvalue="0.5"/>
+                <symbol id="Drizzle" number="46"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T04:00:00Z" to="2015-06-18T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.4" minvalue="0.2" maxvalue="0.6"/>
+                <symbol id="Drizzle" number="46"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T01:00:00Z" to="2015-06-18T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.7" minvalue="0.3" maxvalue="1.2"/>
+                <minTemperature id="TTT" unit="celsius" value="8.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="12.0"/>
+                <symbol id="Drizzle" number="46"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T08:00:00Z" to="2015-06-18T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="12.8"/>
+                <windDirection id="dd" deg="6.3" name="N"/>
+                <windSpeed id="ff" mps="1.0" beaufort="1" name="Flau vind"/>
+                <humidity value="83.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1002.9"/>
+                <cloudiness id="NN" percent="100.0"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="99.3"/>
+                <mediumClouds id="MEDIUM" percent="99.3"/>
+                <highClouds id="HIGH" percent="21.6"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T07:00:00Z" to="2015-06-18T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.2" minvalue="0.1" maxvalue="0.3"/>
+                <symbol id="Drizzle" number="46"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T06:00:00Z" to="2015-06-18T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.4" minvalue="0.2" maxvalue="0.6"/>
+                <symbol id="Drizzle" number="46"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T05:00:00Z" to="2015-06-18T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.5" minvalue="0.2" maxvalue="0.7"/>
+                <symbol id="Drizzle" number="46"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T02:00:00Z" to="2015-06-18T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.8" minvalue="0.4" maxvalue="1.2"/>
+                <minTemperature id="TTT" unit="celsius" value="8.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="12.8"/>
+                <symbol id="Drizzle" number="46"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T09:00:00Z" to="2015-06-18T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="14.2"/>
+                <windDirection id="dd" deg="276.6" name="W"/>
+                <windSpeed id="ff" mps="1.7" beaufort="1" name="Flau vind"/>
+                <humidity value="84.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1003.0"/>
+                <cloudiness id="NN" percent="98.9"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="96.5"/>
+                <mediumClouds id="MEDIUM" percent="70.2"/>
+                <highClouds id="HIGH" percent="23.8"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T08:00:00Z" to="2015-06-18T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T07:00:00Z" to="2015-06-18T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.2" minvalue="0.1" maxvalue="0.4"/>
+                <symbol id="Drizzle" number="46"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T06:00:00Z" to="2015-06-18T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.4" minvalue="0.2" maxvalue="0.6"/>
+                <symbol id="Drizzle" number="46"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T03:00:00Z" to="2015-06-18T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.7" minvalue="0.3" maxvalue="1.1"/>
+                <minTemperature id="TTT" unit="celsius" value="9.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="14.2"/>
+                <symbol id="Drizzle" number="46"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T10:00:00Z" to="2015-06-18T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="14.7"/>
+                <windDirection id="dd" deg="239.6" name="SW"/>
+                <windSpeed id="ff" mps="2.9" beaufort="2" name="Svak vind"/>
+                <humidity value="88.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1002.9"/>
+                <cloudiness id="NN" percent="94.9"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="87.2"/>
+                <mediumClouds id="MEDIUM" percent="55.4"/>
+                <highClouds id="HIGH" percent="14.3"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T09:00:00Z" to="2015-06-18T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T08:00:00Z" to="2015-06-18T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T07:00:00Z" to="2015-06-18T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.2" minvalue="0.1" maxvalue="0.4"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T04:00:00Z" to="2015-06-18T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.6" minvalue="0.3" maxvalue="1.0"/>
+                <minTemperature id="TTT" unit="celsius" value="10.1"/>
+                <maxTemperature id="TTT" unit="celsius" value="14.7"/>
+                <symbol id="Drizzle" number="46"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T11:00:00Z" to="2015-06-18T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="14.0"/>
+                <windDirection id="dd" deg="266.6" name="W"/>
+                <windSpeed id="ff" mps="2.1" beaufort="2" name="Svak vind"/>
+                <humidity value="88.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1002.9"/>
+                <cloudiness id="NN" percent="98.1"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="93.9"/>
+                <mediumClouds id="MEDIUM" percent="61.3"/>
+                <highClouds id="HIGH" percent="17.5"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T10:00:00Z" to="2015-06-18T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T09:00:00Z" to="2015-06-18T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T08:00:00Z" to="2015-06-18T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.2"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T05:00:00Z" to="2015-06-18T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.6" minvalue="0.3" maxvalue="0.9"/>
+                <minTemperature id="TTT" unit="celsius" value="11.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="14.7"/>
+                <symbol id="Drizzle" number="46"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T12:00:00Z" to="2015-06-18T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="14.2"/>
+                <windDirection id="dd" deg="274.0" name="W"/>
+                <windSpeed id="ff" mps="1.9" beaufort="1" name="Flau vind"/>
+                <humidity value="88.4" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1002.9"/>
+                <cloudiness id="NN" percent="96.9"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="91.0"/>
+                <mediumClouds id="MEDIUM" percent="36.3"/>
+                <highClouds id="HIGH" percent="45.5"/>
+                <temperatureProbability unit="probabilitycode" value="0"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T11:00:00Z" to="2015-06-18T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.2"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T10:00:00Z" to="2015-06-18T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.2"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T09:00:00Z" to="2015-06-18T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.2"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T06:00:00Z" to="2015-06-18T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.5" minvalue="0.2" maxvalue="0.8"/>
+                <minTemperature id="TTT" unit="celsius" value="12.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="14.7"/>
+                <symbol id="Cloud" number="4"/>
+                <symbolProbability unit="probabilitycode" value="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T13:00:00Z" to="2015-06-18T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="16.2"/>
+                <windDirection id="dd" deg="333.8" name="NW"/>
+                <windSpeed id="ff" mps="2.6" beaufort="2" name="Svak vind"/>
+                <humidity value="70.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1002.6"/>
+                <cloudiness id="NN" percent="93.2"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="77.4"/>
+                <mediumClouds id="MEDIUM" percent="42.6"/>
+                <highClouds id="HIGH" percent="52.2"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T12:00:00Z" to="2015-06-18T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T11:00:00Z" to="2015-06-18T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.2"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T10:00:00Z" to="2015-06-18T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.2"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T07:00:00Z" to="2015-06-18T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.3" minvalue="0.1" maxvalue="0.6"/>
+                <minTemperature id="TTT" unit="celsius" value="12.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="16.2"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T14:00:00Z" to="2015-06-18T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="15.7"/>
+                <windDirection id="dd" deg="43.3" name="NE"/>
+                <windSpeed id="ff" mps="4.1" beaufort="3" name="Lett bris"/>
+                <humidity value="72.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1002.8"/>
+                <cloudiness id="NN" percent="93.1"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="75.7"/>
+                <mediumClouds id="MEDIUM" percent="44.8"/>
+                <highClouds id="HIGH" percent="50.6"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T13:00:00Z" to="2015-06-18T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T12:00:00Z" to="2015-06-18T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T11:00:00Z" to="2015-06-18T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.2"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T08:00:00Z" to="2015-06-18T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.2" minvalue="0.1" maxvalue="0.4"/>
+                <minTemperature id="TTT" unit="celsius" value="14.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="16.2"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T15:00:00Z" to="2015-06-18T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="16.1"/>
+                <windDirection id="dd" deg="55.8" name="NE"/>
+                <windSpeed id="ff" mps="4.4" beaufort="3" name="Lett bris"/>
+                <humidity value="73.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1003.1"/>
+                <cloudiness id="NN" percent="96.6"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="64.6"/>
+                <mediumClouds id="MEDIUM" percent="70.2"/>
+                <highClouds id="HIGH" percent="74.5"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T14:00:00Z" to="2015-06-18T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T13:00:00Z" to="2015-06-18T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T12:00:00Z" to="2015-06-18T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.2"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T09:00:00Z" to="2015-06-18T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.4"/>
+                <minTemperature id="TTT" unit="celsius" value="14.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="16.2"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T16:00:00Z" to="2015-06-18T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="15.7"/>
+                <windDirection id="dd" deg="49.1" name="NE"/>
+                <windSpeed id="ff" mps="3.7" beaufort="3" name="Lett bris"/>
+                <humidity value="69.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1003.3"/>
+                <cloudiness id="NN" percent="99.3"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="34.1"/>
+                <mediumClouds id="MEDIUM" percent="88.4"/>
+                <highClouds id="HIGH" percent="94.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T15:00:00Z" to="2015-06-18T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T14:00:00Z" to="2015-06-18T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T13:00:00Z" to="2015-06-18T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T10:00:00Z" to="2015-06-18T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.3"/>
+                <minTemperature id="TTT" unit="celsius" value="14.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="16.2"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T17:00:00Z" to="2015-06-18T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="15.0"/>
+                <windDirection id="dd" deg="54.3" name="NE"/>
+                <windSpeed id="ff" mps="3.0" beaufort="2" name="Svak vind"/>
+                <humidity value="69.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1003.5"/>
+                <cloudiness id="NN" percent="100.0"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="24.7"/>
+                <mediumClouds id="MEDIUM" percent="95.5"/>
+                <highClouds id="HIGH" percent="99.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T16:00:00Z" to="2015-06-18T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T15:00:00Z" to="2015-06-18T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T14:00:00Z" to="2015-06-18T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T11:00:00Z" to="2015-06-18T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.3"/>
+                <minTemperature id="TTT" unit="celsius" value="14.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="16.2"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T18:00:00Z" to="2015-06-18T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="14.2"/>
+                <windDirection id="dd" deg="45.3" name="NE"/>
+                <windSpeed id="ff" mps="2.3" beaufort="2" name="Svak vind"/>
+                <humidity value="71.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1003.9"/>
+                <cloudiness id="NN" percent="99.8"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="27.9"/>
+                <mediumClouds id="MEDIUM" percent="84.1"/>
+                <highClouds id="HIGH" percent="97.9"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T17:00:00Z" to="2015-06-18T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T16:00:00Z" to="2015-06-18T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T15:00:00Z" to="2015-06-18T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T12:00:00Z" to="2015-06-18T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.3"/>
+                <minTemperature id="TTT" unit="celsius" value="14.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="16.2"/>
+                <symbol id="Cloud" number="4"/>
+                <symbolProbability unit="probabilitycode" value="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T19:00:00Z" to="2015-06-18T19:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="13.5"/>
+                <windDirection id="dd" deg="32.4" name="NE"/>
+                <windSpeed id="ff" mps="2.1" beaufort="2" name="Svak vind"/>
+                <humidity value="72.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1004.2"/>
+                <cloudiness id="NN" percent="99.9"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="15.6"/>
+                <mediumClouds id="MEDIUM" percent="83.8"/>
+                <highClouds id="HIGH" percent="99.2"/>
+                <dewpointTemperature id="TD" unit="celsius" value="8.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T18:00:00Z" to="2015-06-18T19:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T17:00:00Z" to="2015-06-18T19:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T16:00:00Z" to="2015-06-18T19:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T13:00:00Z" to="2015-06-18T19:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.3"/>
+                <minTemperature id="TTT" unit="celsius" value="13.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="16.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T20:00:00Z" to="2015-06-18T20:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="12.7"/>
+                <windDirection id="dd" deg="30.8" name="NE"/>
+                <windSpeed id="ff" mps="2.3" beaufort="2" name="Svak vind"/>
+                <humidity value="73.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1004.7"/>
+                <cloudiness id="NN" percent="100.0"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="34.8"/>
+                <mediumClouds id="MEDIUM" percent="96.5"/>
+                <highClouds id="HIGH" percent="97.9"/>
+                <dewpointTemperature id="TD" unit="celsius" value="8.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T19:00:00Z" to="2015-06-18T20:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T18:00:00Z" to="2015-06-18T20:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T17:00:00Z" to="2015-06-18T20:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T14:00:00Z" to="2015-06-18T20:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.2"/>
+                <minTemperature id="TTT" unit="celsius" value="12.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="16.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T21:00:00Z" to="2015-06-18T21:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="11.9"/>
+                <windDirection id="dd" deg="26.6" name="NE"/>
+                <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"/>
+                <humidity value="76.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1004.9"/>
+                <cloudiness id="NN" percent="98.8"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="43.0"/>
+                <mediumClouds id="MEDIUM" percent="85.0"/>
+                <highClouds id="HIGH" percent="83.6"/>
+                <dewpointTemperature id="TD" unit="celsius" value="7.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T20:00:00Z" to="2015-06-18T21:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T19:00:00Z" to="2015-06-18T21:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T18:00:00Z" to="2015-06-18T21:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T15:00:00Z" to="2015-06-18T21:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.2"/>
+                <minTemperature id="TTT" unit="celsius" value="11.9"/>
+                <maxTemperature id="TTT" unit="celsius" value="15.7"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T22:00:00Z" to="2015-06-18T22:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="10.8"/>
+                <windDirection id="dd" deg="21.1" name="N"/>
+                <windSpeed id="ff" mps="1.5" beaufort="1" name="Flau vind"/>
+                <humidity value="80.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1005.4"/>
+                <cloudiness id="NN" percent="83.0"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="38.7"/>
+                <mediumClouds id="MEDIUM" percent="54.8"/>
+                <highClouds id="HIGH" percent="55.1"/>
+                <dewpointTemperature id="TD" unit="celsius" value="7.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T21:00:00Z" to="2015-06-18T22:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T20:00:00Z" to="2015-06-18T22:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T19:00:00Z" to="2015-06-18T22:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T16:00:00Z" to="2015-06-18T22:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.2"/>
+                <minTemperature id="TTT" unit="celsius" value="10.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="15.0"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T23:00:00Z" to="2015-06-18T23:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="9.8"/>
+                <windDirection id="dd" deg="29.2" name="NE"/>
+                <windSpeed id="ff" mps="2.1" beaufort="2" name="Svak vind"/>
+                <humidity value="83.4" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1005.9"/>
+                <cloudiness id="NN" percent="84.4"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="79.1"/>
+                <mediumClouds id="MEDIUM" percent="28.5"/>
+                <highClouds id="HIGH" percent="22.6"/>
+                <dewpointTemperature id="TD" unit="celsius" value="7.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T22:00:00Z" to="2015-06-18T23:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T21:00:00Z" to="2015-06-18T23:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T20:00:00Z" to="2015-06-18T23:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T17:00:00Z" to="2015-06-18T23:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.2"/>
+                <minTemperature id="TTT" unit="celsius" value="9.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="14.2"/>
+                <symbol id="Cloud" number="4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T00:00:00Z" to="2015-06-19T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="9.8"/>
+                <windDirection id="dd" deg="24.4" name="NE"/>
+                <windSpeed id="ff" mps="3.3" beaufort="2" name="Svak vind"/>
+                <humidity value="81.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1006.2"/>
+                <cloudiness id="NN" percent="38.7"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="38.3"/>
+                <mediumClouds id="MEDIUM" percent="0.9"/>
+                <highClouds id="HIGH" percent="1.1"/>
+                <temperatureProbability unit="probabilitycode" value="0"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="6.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T23:00:00Z" to="2015-06-19T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T22:00:00Z" to="2015-06-19T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T21:00:00Z" to="2015-06-19T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T18:00:00Z" to="2015-06-19T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.1"/>
+                <minTemperature id="TTT" unit="celsius" value="9.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="13.5"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T01:00:00Z" to="2015-06-19T01:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="9.1"/>
+                <windDirection id="dd" deg="20.7" name="N"/>
+                <windSpeed id="ff" mps="3.1" beaufort="2" name="Svak vind"/>
+                <humidity value="80.8" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1006.5"/>
+                <cloudiness id="NN" percent="6.3"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="6.2"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="5.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T00:00:00Z" to="2015-06-19T01:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T23:00:00Z" to="2015-06-19T01:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T22:00:00Z" to="2015-06-19T01:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T19:00:00Z" to="2015-06-19T01:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="0.1"/>
+                <minTemperature id="TTT" unit="celsius" value="9.1"/>
+                <maxTemperature id="TTT" unit="celsius" value="12.7"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T02:00:00Z" to="2015-06-19T02:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="8.6"/>
+                <windDirection id="dd" deg="22.2" name="N"/>
+                <windSpeed id="ff" mps="2.5" beaufort="2" name="Svak vind"/>
+                <humidity value="80.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1006.9"/>
+                <cloudiness id="NN" percent="7.1"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="6.9"/>
+                <mediumClouds id="MEDIUM" percent="0.2"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="5.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T01:00:00Z" to="2015-06-19T02:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T00:00:00Z" to="2015-06-19T02:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T23:00:00Z" to="2015-06-19T02:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T20:00:00Z" to="2015-06-19T02:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <minTemperature id="TTT" unit="celsius" value="8.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="11.9"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T03:00:00Z" to="2015-06-19T03:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="8.5"/>
+                <windDirection id="dd" deg="25.0" name="NE"/>
+                <windSpeed id="ff" mps="1.9" beaufort="1" name="Flau vind"/>
+                <humidity value="78.8" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1007.3"/>
+                <cloudiness id="NN" percent="3.1"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="3.1"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="4.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T02:00:00Z" to="2015-06-19T03:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T01:00:00Z" to="2015-06-19T03:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T00:00:00Z" to="2015-06-19T03:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T21:00:00Z" to="2015-06-19T03:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="8.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="10.8"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T04:00:00Z" to="2015-06-19T04:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="9.9"/>
+                <windDirection id="dd" deg="16.2" name="N"/>
+                <windSpeed id="ff" mps="1.6" beaufort="1" name="Flau vind"/>
+                <humidity value="76.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1007.7"/>
+                <cloudiness id="NN" percent="2.2"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="2.1"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="5.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T03:00:00Z" to="2015-06-19T04:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T02:00:00Z" to="2015-06-19T04:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T01:00:00Z" to="2015-06-19T04:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T22:00:00Z" to="2015-06-19T04:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="8.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="9.9"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T05:00:00Z" to="2015-06-19T05:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="12.0"/>
+                <windDirection id="dd" deg="16.0" name="N"/>
+                <windSpeed id="ff" mps="1.7" beaufort="1" name="Flau vind"/>
+                <humidity value="71.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.1"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="6.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T04:00:00Z" to="2015-06-19T05:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T03:00:00Z" to="2015-06-19T05:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T02:00:00Z" to="2015-06-19T05:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-18T23:00:00Z" to="2015-06-19T05:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="8.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="12.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T06:00:00Z" to="2015-06-19T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="14.4"/>
+                <windDirection id="dd" deg="9.5" name="N"/>
+                <windSpeed id="ff" mps="2.0" beaufort="1" name="Flau vind"/>
+                <humidity value="65.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.4"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <temperatureProbability unit="probabilitycode" value="0"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="7.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T05:00:00Z" to="2015-06-19T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T04:00:00Z" to="2015-06-19T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T03:00:00Z" to="2015-06-19T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T00:00:00Z" to="2015-06-19T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="8.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="14.4"/>
+                <symbol id="Sun" number="1"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T07:00:00Z" to="2015-06-19T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="16.2"/>
+                <windDirection id="dd" deg="358.0" name="N"/>
+                <windSpeed id="ff" mps="2.4" beaufort="2" name="Svak vind"/>
+                <humidity value="60.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.6"/>
+                <cloudiness id="NN" percent="0.2"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="0.2"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="8.6"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T06:00:00Z" to="2015-06-19T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T05:00:00Z" to="2015-06-19T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T04:00:00Z" to="2015-06-19T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T01:00:00Z" to="2015-06-19T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="8.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="16.2"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T08:00:00Z" to="2015-06-19T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="17.7"/>
+                <windDirection id="dd" deg="353.3" name="N"/>
+                <windSpeed id="ff" mps="3.0" beaufort="2" name="Svak vind"/>
+                <humidity value="57.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.6"/>
+                <cloudiness id="NN" percent="15.2"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="15.2"/>
+                <mediumClouds id="MEDIUM" percent="0.1"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T07:00:00Z" to="2015-06-19T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T06:00:00Z" to="2015-06-19T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T05:00:00Z" to="2015-06-19T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T02:00:00Z" to="2015-06-19T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="8.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="17.7"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T09:00:00Z" to="2015-06-19T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="19.0"/>
+                <windDirection id="dd" deg="12.0" name="N"/>
+                <windSpeed id="ff" mps="2.7" beaufort="2" name="Svak vind"/>
+                <humidity value="51.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.4"/>
+                <cloudiness id="NN" percent="51.3"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="49.0"/>
+                <mediumClouds id="MEDIUM" percent="10.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="8.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T08:00:00Z" to="2015-06-19T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T07:00:00Z" to="2015-06-19T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T06:00:00Z" to="2015-06-19T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T03:00:00Z" to="2015-06-19T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="9.9"/>
+                <maxTemperature id="TTT" unit="celsius" value="19.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T10:00:00Z" to="2015-06-19T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="19.9"/>
+                <windDirection id="dd" deg="13.5" name="N"/>
+                <windSpeed id="ff" mps="2.7" beaufort="2" name="Svak vind"/>
+                <humidity value="46.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.3"/>
+                <cloudiness id="NN" percent="62.4"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="56.6"/>
+                <mediumClouds id="MEDIUM" percent="20.7"/>
+                <highClouds id="HIGH" percent="0.4"/>
+                <dewpointTemperature id="TD" unit="celsius" value="8.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T09:00:00Z" to="2015-06-19T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T08:00:00Z" to="2015-06-19T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T07:00:00Z" to="2015-06-19T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T04:00:00Z" to="2015-06-19T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="12.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="19.9"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T11:00:00Z" to="2015-06-19T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="20.7"/>
+                <windDirection id="dd" deg="356.1" name="N"/>
+                <windSpeed id="ff" mps="2.9" beaufort="2" name="Svak vind"/>
+                <humidity value="41.4" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.3"/>
+                <cloudiness id="NN" percent="57.2"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="51.2"/>
+                <mediumClouds id="MEDIUM" percent="17.6"/>
+                <highClouds id="HIGH" percent="3.1"/>
+                <dewpointTemperature id="TD" unit="celsius" value="7.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T10:00:00Z" to="2015-06-19T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T09:00:00Z" to="2015-06-19T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T08:00:00Z" to="2015-06-19T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T05:00:00Z" to="2015-06-19T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="14.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="20.7"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T12:00:00Z" to="2015-06-19T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="21.4"/>
+                <windDirection id="dd" deg="341.7" name="N"/>
+                <windSpeed id="ff" mps="3.5" beaufort="2" name="Svak vind"/>
+                <humidity value="39.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.2"/>
+                <cloudiness id="NN" percent="59.4"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="44.5"/>
+                <mediumClouds id="MEDIUM" percent="25.2"/>
+                <highClouds id="HIGH" percent="13.5"/>
+                <temperatureProbability unit="probabilitycode" value="0"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="7.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T11:00:00Z" to="2015-06-19T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T10:00:00Z" to="2015-06-19T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T09:00:00Z" to="2015-06-19T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T06:00:00Z" to="2015-06-19T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="16.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="21.4"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T13:00:00Z" to="2015-06-19T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="21.6"/>
+                <windDirection id="dd" deg="7.3" name="N"/>
+                <windSpeed id="ff" mps="3.5" beaufort="2" name="Svak vind"/>
+                <humidity value="38.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.2"/>
+                <cloudiness id="NN" percent="84.7"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="60.3"/>
+                <mediumClouds id="MEDIUM" percent="66.3"/>
+                <highClouds id="HIGH" percent="12.4"/>
+                <dewpointTemperature id="TD" unit="celsius" value="7.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T12:00:00Z" to="2015-06-19T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T11:00:00Z" to="2015-06-19T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T10:00:00Z" to="2015-06-19T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T07:00:00Z" to="2015-06-19T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="17.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="21.6"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T14:00:00Z" to="2015-06-19T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="18.5"/>
+                <windDirection id="dd" deg="68.7" name="E"/>
+                <windSpeed id="ff" mps="5.8" beaufort="4" name="Laber bris"/>
+                <humidity value="51.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.9"/>
+                <cloudiness id="NN" percent="70.4"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="36.9"/>
+                <mediumClouds id="MEDIUM" percent="66.3"/>
+                <highClouds id="HIGH" percent="3.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="8.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T13:00:00Z" to="2015-06-19T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T12:00:00Z" to="2015-06-19T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T11:00:00Z" to="2015-06-19T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T08:00:00Z" to="2015-06-19T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <minTemperature id="TTT" unit="celsius" value="18.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="21.6"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T15:00:00Z" to="2015-06-19T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="20.1"/>
+                <windDirection id="dd" deg="70.9" name="E"/>
+                <windSpeed id="ff" mps="3.2" beaufort="2" name="Svak vind"/>
+                <humidity value="44.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.5"/>
+                <cloudiness id="NN" percent="14.0"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="7.9"/>
+                <mediumClouds id="MEDIUM" percent="9.3"/>
+                <highClouds id="HIGH" percent="0.2"/>
+                <dewpointTemperature id="TD" unit="celsius" value="7.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T14:00:00Z" to="2015-06-19T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T13:00:00Z" to="2015-06-19T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T12:00:00Z" to="2015-06-19T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T09:00:00Z" to="2015-06-19T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <minTemperature id="TTT" unit="celsius" value="18.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="21.6"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T16:00:00Z" to="2015-06-19T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="18.2"/>
+                <windDirection id="dd" deg="63.9" name="NE"/>
+                <windSpeed id="ff" mps="8.2" beaufort="4" name="Laber bris"/>
+                <humidity value="64.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.3"/>
+                <cloudiness id="NN" percent="78.3"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="47.2"/>
+                <mediumClouds id="MEDIUM" percent="73.5"/>
+                <highClouds id="HIGH" percent="4.1"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T15:00:00Z" to="2015-06-19T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.4"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T14:00:00Z" to="2015-06-19T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.4"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T13:00:00Z" to="2015-06-19T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.4"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T10:00:00Z" to="2015-06-19T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.4"/>
+                <minTemperature id="TTT" unit="celsius" value="18.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="21.6"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T17:00:00Z" to="2015-06-19T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="17.2"/>
+                <windDirection id="dd" deg="278.4" name="W"/>
+                <windSpeed id="ff" mps="1.7" beaufort="1" name="Flau vind"/>
+                <humidity value="62.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.4"/>
+                <cloudiness id="NN" percent="73.9"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="11.9"/>
+                <mediumClouds id="MEDIUM" percent="73.5"/>
+                <highClouds id="HIGH" percent="0.3"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T16:00:00Z" to="2015-06-19T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="1.2"/>
+                <symbol id="DrizzleSun" number="40"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T15:00:00Z" to="2015-06-19T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="1.2"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T14:00:00Z" to="2015-06-19T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="1.2"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T11:00:00Z" to="2015-06-19T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="1.2"/>
+                <minTemperature id="TTT" unit="celsius" value="17.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="21.6"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T18:00:00Z" to="2015-06-19T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="16.1"/>
+                <windDirection id="dd" deg="262.4" name="W"/>
+                <windSpeed id="ff" mps="1.6" beaufort="1" name="Flau vind"/>
+                <humidity value="68.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.8"/>
+                <cloudiness id="NN" percent="22.4"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="0.5"/>
+                <mediumClouds id="MEDIUM" percent="21.6"/>
+                <highClouds id="HIGH" percent="0.5"/>
+                <temperatureProbability unit="probabilitycode" value="0"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T17:00:00Z" to="2015-06-19T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T16:00:00Z" to="2015-06-19T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="1.2"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T15:00:00Z" to="2015-06-19T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="1.2"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T12:00:00Z" to="2015-06-19T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="1.2"/>
+                <minTemperature id="TTT" unit="celsius" value="16.1"/>
+                <maxTemperature id="TTT" unit="celsius" value="21.6"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T19:00:00Z" to="2015-06-19T19:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="15.0"/>
+                <windDirection id="dd" deg="179.0" name="S"/>
+                <windSpeed id="ff" mps="1.9" beaufort="1" name="Flau vind"/>
+                <humidity value="71.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.9"/>
+                <cloudiness id="NN" percent="31.0"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="0.3"/>
+                <mediumClouds id="MEDIUM" percent="30.9"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T18:00:00Z" to="2015-06-19T19:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T17:00:00Z" to="2015-06-19T19:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T16:00:00Z" to="2015-06-19T19:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="1.2"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T13:00:00Z" to="2015-06-19T19:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="1.2"/>
+                <minTemperature id="TTT" unit="celsius" value="15.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="20.1"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T20:00:00Z" to="2015-06-19T20:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="14.1"/>
+                <windDirection id="dd" deg="229.4" name="SW"/>
+                <windSpeed id="ff" mps="1.3" beaufort="1" name="Flau vind"/>
+                <humidity value="71.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1010.5"/>
+                <cloudiness id="NN" percent="17.1"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="6.7"/>
+                <mediumClouds id="MEDIUM" percent="13.5"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T19:00:00Z" to="2015-06-19T20:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T18:00:00Z" to="2015-06-19T20:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T17:00:00Z" to="2015-06-19T20:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T14:00:00Z" to="2015-06-19T20:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="1.2"/>
+                <minTemperature id="TTT" unit="celsius" value="14.1"/>
+                <maxTemperature id="TTT" unit="celsius" value="20.1"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T21:00:00Z" to="2015-06-19T21:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="12.8"/>
+                <windDirection id="dd" deg="278.8" name="W"/>
+                <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"/>
+                <humidity value="77.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1010.8"/>
+                <cloudiness id="NN" percent="15.5"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="12.5"/>
+                <mediumClouds id="MEDIUM" percent="13.6"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="8.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T20:00:00Z" to="2015-06-19T21:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T19:00:00Z" to="2015-06-19T21:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T18:00:00Z" to="2015-06-19T21:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T15:00:00Z" to="2015-06-19T21:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="1.2"/>
+                <minTemperature id="TTT" unit="celsius" value="12.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="18.2"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T22:00:00Z" to="2015-06-19T22:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="11.7"/>
+                <windDirection id="dd" deg="162.3" name="S"/>
+                <windSpeed id="ff" mps="1.0" beaufort="1" name="Flau vind"/>
+                <humidity value="82.8" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.1"/>
+                <cloudiness id="NN" percent="1.2"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="0.9"/>
+                <mediumClouds id="MEDIUM" percent="0.4"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="8.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T21:00:00Z" to="2015-06-19T22:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T20:00:00Z" to="2015-06-19T22:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T19:00:00Z" to="2015-06-19T22:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T16:00:00Z" to="2015-06-19T22:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.1" minvalue="0.0" maxvalue="1.2"/>
+                <minTemperature id="TTT" unit="celsius" value="11.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="17.2"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T23:00:00Z" to="2015-06-19T23:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="11.0"/>
+                <windDirection id="dd" deg="85.2" name="E"/>
+                <windSpeed id="ff" mps="0.5" beaufort="1" name="Flau vind"/>
+                <humidity value="86.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.5"/>
+                <cloudiness id="NN" percent="21.9"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="21.8"/>
+                <mediumClouds id="MEDIUM" percent="0.1"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="8.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T22:00:00Z" to="2015-06-19T23:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T21:00:00Z" to="2015-06-19T23:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T20:00:00Z" to="2015-06-19T23:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T17:00:00Z" to="2015-06-19T23:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="11.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="16.1"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T00:00:00Z" to="2015-06-20T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="10.7"/>
+                <windDirection id="dd" deg="87.5" name="E"/>
+                <windSpeed id="ff" mps="0.4" beaufort="0" name="Stille"/>
+                <humidity value="83.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.7"/>
+                <cloudiness id="NN" percent="27.2"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="26.8"/>
+                <mediumClouds id="MEDIUM" percent="19.6"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <temperatureProbability unit="probabilitycode" value="0"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="8.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T23:00:00Z" to="2015-06-20T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T22:00:00Z" to="2015-06-20T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T21:00:00Z" to="2015-06-20T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T18:00:00Z" to="2015-06-20T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="10.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="15.0"/>
+                <symbol id="LightCloud" number="2"/>
+                <symbolProbability unit="probabilitycode" value="0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T01:00:00Z" to="2015-06-20T01:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="10.3"/>
+                <windDirection id="dd" deg="141.2" name="SE"/>
+                <windSpeed id="ff" mps="1.7" beaufort="1" name="Flau vind"/>
+                <humidity value="85.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.2"/>
+                <cloudiness id="NN" percent="7.9"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="1.2"/>
+                <mediumClouds id="MEDIUM" percent="7.7"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="7.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T00:00:00Z" to="2015-06-20T01:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T23:00:00Z" to="2015-06-20T01:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T22:00:00Z" to="2015-06-20T01:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T19:00:00Z" to="2015-06-20T01:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="10.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="14.1"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T02:00:00Z" to="2015-06-20T02:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="9.6"/>
+                <windDirection id="dd" deg="70.2" name="E"/>
+                <windSpeed id="ff" mps="0.9" beaufort="1" name="Flau vind"/>
+                <humidity value="83.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.4"/>
+                <cloudiness id="NN" percent="0.4"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="0.1"/>
+                <mediumClouds id="MEDIUM" percent="0.1"/>
+                <highClouds id="HIGH" percent="0.1"/>
+                <dewpointTemperature id="TD" unit="celsius" value="6.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T01:00:00Z" to="2015-06-20T02:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T00:00:00Z" to="2015-06-20T02:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T23:00:00Z" to="2015-06-20T02:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T20:00:00Z" to="2015-06-20T02:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="9.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="12.8"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T03:00:00Z" to="2015-06-20T03:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="9.7"/>
+                <windDirection id="dd" deg="69.0" name="E"/>
+                <windSpeed id="ff" mps="0.6" beaufort="1" name="Flau vind"/>
+                <humidity value="80.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.5"/>
+                <cloudiness id="NN" percent="0.2"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.2"/>
+                <dewpointTemperature id="TD" unit="celsius" value="6.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T02:00:00Z" to="2015-06-20T03:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T01:00:00Z" to="2015-06-20T03:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T00:00:00Z" to="2015-06-20T03:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T21:00:00Z" to="2015-06-20T03:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="9.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="11.7"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T04:00:00Z" to="2015-06-20T04:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="11.0"/>
+                <windDirection id="dd" deg="130.9" name="SE"/>
+                <windSpeed id="ff" mps="0.3" beaufort="0" name="Stille"/>
+                <humidity value="80.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.8"/>
+                <cloudiness id="NN" percent="0.0"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="7.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T03:00:00Z" to="2015-06-20T04:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T02:00:00Z" to="2015-06-20T04:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T01:00:00Z" to="2015-06-20T04:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T22:00:00Z" to="2015-06-20T04:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="9.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="11.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T05:00:00Z" to="2015-06-20T05:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="13.8"/>
+                <windDirection id="dd" deg="333.9" name="NW"/>
+                <windSpeed id="ff" mps="0.2" beaufort="0" name="Stille"/>
+                <humidity value="73.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1013.1"/>
+                <cloudiness id="NN" percent="0.1"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="0.0"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T04:00:00Z" to="2015-06-20T05:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T03:00:00Z" to="2015-06-20T05:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T02:00:00Z" to="2015-06-20T05:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-19T23:00:00Z" to="2015-06-20T05:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="9.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="13.8"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T06:00:00Z" to="2015-06-20T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="16.5"/>
+                <windDirection id="dd" deg="9.8" name="N"/>
+                <windSpeed id="ff" mps="1.7" beaufort="1" name="Flau vind"/>
+                <humidity value="62.4" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1013.3"/>
+                <cloudiness id="NN" percent="0.1"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="0.1"/>
+                <mediumClouds id="MEDIUM" percent="0.0"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <temperatureProbability unit="probabilitycode" value="0"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T05:00:00Z" to="2015-06-20T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T04:00:00Z" to="2015-06-20T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T03:00:00Z" to="2015-06-20T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T00:00:00Z" to="2015-06-20T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="9.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="16.5"/>
+                <symbol id="Sun" number="1"/>
+                <symbolProbability unit="probabilitycode" value="0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T07:00:00Z" to="2015-06-20T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="18.1"/>
+                <windDirection id="dd" deg="7.3" name="N"/>
+                <windSpeed id="ff" mps="2.3" beaufort="2" name="Svak vind"/>
+                <humidity value="59.8" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1013.7"/>
+                <cloudiness id="NN" percent="1.7"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="1.7"/>
+                <mediumClouds id="MEDIUM" percent="0.1"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T06:00:00Z" to="2015-06-20T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T05:00:00Z" to="2015-06-20T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T04:00:00Z" to="2015-06-20T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T01:00:00Z" to="2015-06-20T07:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="9.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="18.1"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T08:00:00Z" to="2015-06-20T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="19.7"/>
+                <windDirection id="dd" deg="356.4" name="N"/>
+                <windSpeed id="ff" mps="2.1" beaufort="2" name="Svak vind"/>
+                <humidity value="56.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1013.5"/>
+                <cloudiness id="NN" percent="6.8"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="6.5"/>
+                <mediumClouds id="MEDIUM" percent="0.5"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T07:00:00Z" to="2015-06-20T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T06:00:00Z" to="2015-06-20T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T05:00:00Z" to="2015-06-20T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T02:00:00Z" to="2015-06-20T08:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="9.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="19.7"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T09:00:00Z" to="2015-06-20T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="20.8"/>
+                <windDirection id="dd" deg="8.8" name="N"/>
+                <windSpeed id="ff" mps="2.0" beaufort="1" name="Flau vind"/>
+                <humidity value="53.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1013.4"/>
+                <cloudiness id="NN" percent="54.3"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="52.0"/>
+                <mediumClouds id="MEDIUM" percent="21.1"/>
+                <highClouds id="HIGH" percent="0.0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T08:00:00Z" to="2015-06-20T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T07:00:00Z" to="2015-06-20T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T06:00:00Z" to="2015-06-20T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T03:00:00Z" to="2015-06-20T09:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="11.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="20.8"/>
+                <symbol id="Sun" number="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T10:00:00Z" to="2015-06-20T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="21.1"/>
+                <windDirection id="dd" deg="50.5" name="NE"/>
+                <windSpeed id="ff" mps="1.6" beaufort="1" name="Flau vind"/>
+                <humidity value="49.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1013.3"/>
+                <cloudiness id="NN" percent="62.7"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="59.1"/>
+                <mediumClouds id="MEDIUM" percent="30.1"/>
+                <highClouds id="HIGH" percent="0.1"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T09:00:00Z" to="2015-06-20T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T08:00:00Z" to="2015-06-20T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T07:00:00Z" to="2015-06-20T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T04:00:00Z" to="2015-06-20T10:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="13.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="21.1"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T11:00:00Z" to="2015-06-20T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="21.7"/>
+                <windDirection id="dd" deg="49.6" name="NE"/>
+                <windSpeed id="ff" mps="0.8" beaufort="1" name="Flau vind"/>
+                <humidity value="47.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1013.0"/>
+                <cloudiness id="NN" percent="57.5"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="54.9"/>
+                <mediumClouds id="MEDIUM" percent="15.6"/>
+                <highClouds id="HIGH" percent="0.4"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T10:00:00Z" to="2015-06-20T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T09:00:00Z" to="2015-06-20T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T08:00:00Z" to="2015-06-20T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T05:00:00Z" to="2015-06-20T11:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="16.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="21.7"/>
+                <symbol id="LightCloud" number="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T12:00:00Z" to="2015-06-20T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="22.4"/>
+                <windDirection id="dd" deg="244.4" name="SW"/>
+                <windSpeed id="ff" mps="3.0" beaufort="2" name="Svak vind"/>
+                <humidity value="48.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.6"/>
+                <cloudiness id="NN" percent="58.2"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="57.2"/>
+                <mediumClouds id="MEDIUM" percent="5.5"/>
+                <highClouds id="HIGH" percent="0.2"/>
+                <temperatureProbability unit="probabilitycode" value="0"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T11:00:00Z" to="2015-06-20T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T10:00:00Z" to="2015-06-20T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T09:00:00Z" to="2015-06-20T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T06:00:00Z" to="2015-06-20T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="18.1"/>
+                <maxTemperature id="TTT" unit="celsius" value="22.4"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T13:00:00Z" to="2015-06-20T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="22.0"/>
+                <windDirection id="dd" deg="247.3" name="SW"/>
+                <windSpeed id="ff" mps="4.2" beaufort="3" name="Lett bris"/>
+                <humidity value="48.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.3"/>
+                <cloudiness id="NN" percent="67.2"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="64.1"/>
+                <mediumClouds id="MEDIUM" percent="29.0"/>
+                <highClouds id="HIGH" percent="0.5"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.6"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T12:00:00Z" to="2015-06-20T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T11:00:00Z" to="2015-06-20T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T10:00:00Z" to="2015-06-20T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T07:00:00Z" to="2015-06-20T13:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="19.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="22.4"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T14:00:00Z" to="2015-06-20T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="21.1"/>
+                <windDirection id="dd" deg="97.1" name="E"/>
+                <windSpeed id="ff" mps="4.5" beaufort="3" name="Lett bris"/>
+                <humidity value="54.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.8"/>
+                <cloudiness id="NN" percent="83.1"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="63.8"/>
+                <mediumClouds id="MEDIUM" percent="57.4"/>
+                <highClouds id="HIGH" percent="8.9"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T13:00:00Z" to="2015-06-20T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T12:00:00Z" to="2015-06-20T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T11:00:00Z" to="2015-06-20T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T08:00:00Z" to="2015-06-20T14:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="20.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="22.4"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T15:00:00Z" to="2015-06-20T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="20.9"/>
+                <windDirection id="dd" deg="113.5" name="SE"/>
+                <windSpeed id="ff" mps="3.3" beaufort="2" name="Svak vind"/>
+                <humidity value="53.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.6"/>
+                <cloudiness id="NN" percent="62.7"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="23.3"/>
+                <mediumClouds id="MEDIUM" percent="48.3"/>
+                <highClouds id="HIGH" percent="17.4"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T14:00:00Z" to="2015-06-20T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.3"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T13:00:00Z" to="2015-06-20T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.3"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T12:00:00Z" to="2015-06-20T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.3"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T09:00:00Z" to="2015-06-20T15:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.3"/>
+                <minTemperature id="TTT" unit="celsius" value="20.9"/>
+                <maxTemperature id="TTT" unit="celsius" value="22.4"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T16:00:00Z" to="2015-06-20T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="20.2"/>
+                <windDirection id="dd" deg="92.8" name="E"/>
+                <windSpeed id="ff" mps="2.1" beaufort="2" name="Svak vind"/>
+                <humidity value="54.4" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.9"/>
+                <cloudiness id="NN" percent="54.4"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="19.1"/>
+                <mediumClouds id="MEDIUM" percent="36.0"/>
+                <highClouds id="HIGH" percent="25.5"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T15:00:00Z" to="2015-06-20T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T14:00:00Z" to="2015-06-20T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.3"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T13:00:00Z" to="2015-06-20T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.3"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T10:00:00Z" to="2015-06-20T16:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.3"/>
+                <minTemperature id="TTT" unit="celsius" value="20.2"/>
+                <maxTemperature id="TTT" unit="celsius" value="22.4"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T17:00:00Z" to="2015-06-20T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="19.6"/>
+                <windDirection id="dd" deg="106.7" name="E"/>
+                <windSpeed id="ff" mps="2.2" beaufort="2" name="Svak vind"/>
+                <humidity value="54.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.8"/>
+                <cloudiness id="NN" percent="61.6"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="19.3"/>
+                <mediumClouds id="MEDIUM" percent="54.3"/>
+                <highClouds id="HIGH" percent="2.7"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T16:00:00Z" to="2015-06-20T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T15:00:00Z" to="2015-06-20T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T14:00:00Z" to="2015-06-20T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.3"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T11:00:00Z" to="2015-06-20T17:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.3"/>
+                <minTemperature id="TTT" unit="celsius" value="19.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="22.4"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T18:00:00Z" to="2015-06-20T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="18.6"/>
+                <windDirection id="dd" deg="146.2" name="SE"/>
+                <windSpeed id="ff" mps="0.9" beaufort="1" name="Flau vind"/>
+                <humidity value="56.4" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.8"/>
+                <cloudiness id="NN" percent="65.1"/>
+                <fog id="FOG" percent="-0.0"/>
+                <lowClouds id="LOW" percent="4.3"/>
+                <mediumClouds id="MEDIUM" percent="65.0"/>
+                <highClouds id="HIGH" percent="0.1"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T17:00:00Z" to="2015-06-20T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T16:00:00Z" to="2015-06-20T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T15:00:00Z" to="2015-06-20T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.1"/>
+                <symbol id="PartlyCloud" number="3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T12:00:00Z" to="2015-06-20T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.3"/>
+                <minTemperature id="TTT" unit="celsius" value="18.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="22.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-21T00:00:00Z" to="2015-06-21T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="13.9"/>
+                <windDirection id="dd" deg="95.8" name="E"/>
+                <windSpeed id="ff" mps="1.3" beaufort="1" name="Flau vind"/>
+                <humidity value="80.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.6"/>
+                <cloudiness id="NN" percent="94.9"/>
+                <lowClouds id="LOW" percent="2.3"/>
+                <mediumClouds id="MEDIUM" percent="22.3"/>
+                <highClouds id="HIGH" percent="89.1"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.6"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-20T18:00:00Z" to="2015-06-21T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="13.9"/>
+                <maxTemperature id="TTT" unit="celsius" value="20.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-21T06:00:00Z" to="2015-06-21T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="15.4"/>
+                <windDirection id="dd" deg="100.1" name="E"/>
+                <windSpeed id="ff" mps="1.0" beaufort="1" name="Flau vind"/>
+                <humidity value="76.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1012.5"/>
+                <cloudiness id="NN" percent="92.2"/>
+                <lowClouds id="LOW" percent="1.6"/>
+                <mediumClouds id="MEDIUM" percent="39.1"/>
+                <highClouds id="HIGH" percent="81.2"/>
+                <temperatureProbability unit="probabilitycode" value="0"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-21T00:00:00Z" to="2015-06-21T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="11.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="15.4"/>
+                <symbol id="Cloud" number="4"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-21T12:00:00Z" to="2015-06-21T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="19.3"/>
+                <windDirection id="dd" deg="82.7" name="E"/>
+                <windSpeed id="ff" mps="1.5" beaufort="1" name="Flau vind"/>
+                <humidity value="48.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1011.3"/>
+                <cloudiness id="NN" percent="85.5"/>
+                <lowClouds id="LOW" percent="7.0"/>
+                <mediumClouds id="MEDIUM" percent="66.4"/>
+                <highClouds id="HIGH" percent="30.1"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="8.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-21T06:00:00Z" to="2015-06-21T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="15.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="19.4"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-21T18:00:00Z" to="2015-06-21T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="18.7"/>
+                <windDirection id="dd" deg="177.4" name="S"/>
+                <windSpeed id="ff" mps="1.5" beaufort="1" name="Flau vind"/>
+                <humidity value="56.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.8"/>
+                <cloudiness id="NN" percent="84.8"/>
+                <lowClouds id="LOW" percent="1.6"/>
+                <mediumClouds id="MEDIUM" percent="41.4"/>
+                <highClouds id="HIGH" percent="62.1"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.8"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-21T12:00:00Z" to="2015-06-21T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="18.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="20.6"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-22T00:00:00Z" to="2015-06-22T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="14.0"/>
+                <windDirection id="dd" deg="167.4" name="S"/>
+                <windSpeed id="ff" mps="1.3" beaufort="1" name="Flau vind"/>
+                <humidity value="91.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1010.6"/>
+                <cloudiness id="NN" percent="51.2"/>
+                <lowClouds id="LOW" percent="2.3"/>
+                <mediumClouds id="MEDIUM" percent="19.5"/>
+                <highClouds id="HIGH" percent="19.5"/>
+                <temperatureProbability unit="probabilitycode" value="0"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.6"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-21T18:00:00Z" to="2015-06-22T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="14.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="19.5"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-22T06:00:00Z" to="2015-06-22T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="15.3"/>
+                <windDirection id="dd" deg="123.3" name="SE"/>
+                <windSpeed id="ff" mps="1.0" beaufort="1" name="Flau vind"/>
+                <humidity value="82.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.9"/>
+                <cloudiness id="NN" percent="83.2"/>
+                <lowClouds id="LOW" percent="10.5"/>
+                <mediumClouds id="MEDIUM" percent="23.4"/>
+                <highClouds id="HIGH" percent="25.0"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-22T00:00:00Z" to="2015-06-22T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="11.3"/>
+                <maxTemperature id="TTT" unit="celsius" value="15.3"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-22T12:00:00Z" to="2015-06-22T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="18.7"/>
+                <windDirection id="dd" deg="230.5" name="SW"/>
+                <windSpeed id="ff" mps="2.2" beaufort="2" name="Svak vind"/>
+                <humidity value="57.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1007.7"/>
+                <cloudiness id="NN" percent="97.7"/>
+                <lowClouds id="LOW" percent="46.1"/>
+                <mediumClouds id="MEDIUM" percent="71.9"/>
+                <highClouds id="HIGH" percent="82.0"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="10.1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-22T06:00:00Z" to="2015-06-22T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="14.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="19.8"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-22T18:00:00Z" to="2015-06-22T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="17.9"/>
+                <windDirection id="dd" deg="182.5" name="S"/>
+                <windSpeed id="ff" mps="2.0" beaufort="1" name="Flau vind"/>
+                <humidity value="63.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.8"/>
+                <cloudiness id="NN" percent="78.9"/>
+                <lowClouds id="LOW" percent="6.2"/>
+                <mediumClouds id="MEDIUM" percent="37.5"/>
+                <highClouds id="HIGH" percent="51.6"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-22T12:00:00Z" to="2015-06-22T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="2.0"/>
+                <minTemperature id="TTT" unit="celsius" value="17.9"/>
+                <maxTemperature id="TTT" unit="celsius" value="20.4"/>
+                <symbol id="LightRain" number="9"/>
+                <symbolProbability unit="probabilitycode" value="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-23T00:00:00Z" to="2015-06-23T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="13.6"/>
+                <windDirection id="dd" deg="210.2" name="SW"/>
+                <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"/>
+                <humidity value="93.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.0"/>
+                <cloudiness id="NN" percent="62.5"/>
+                <lowClouds id="LOW" percent="6.2"/>
+                <mediumClouds id="MEDIUM" percent="36.7"/>
+                <highClouds id="HIGH" percent="39.1"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.6"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-22T18:00:00Z" to="2015-06-23T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="13.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="18.3"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-23T06:00:00Z" to="2015-06-23T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="15.2"/>
+                <windDirection id="dd" deg="18.0" name="N"/>
+                <windSpeed id="ff" mps="1.0" beaufort="1" name="Flau vind"/>
+                <humidity value="82.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1010.0"/>
+                <cloudiness id="NN" percent="47.7"/>
+                <lowClouds id="LOW" percent="7.8"/>
+                <mediumClouds id="MEDIUM" percent="14.8"/>
+                <highClouds id="HIGH" percent="20.3"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-23T00:00:00Z" to="2015-06-23T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="11.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="15.2"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-23T12:00:00Z" to="2015-06-23T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="18.5"/>
+                <windDirection id="dd" deg="57.2" name="NE"/>
+                <windSpeed id="ff" mps="2.0" beaufort="1" name="Flau vind"/>
+                <humidity value="66.8" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1005.3"/>
+                <cloudiness id="NN" percent="92.2"/>
+                <lowClouds id="LOW" percent="39.1"/>
+                <mediumClouds id="MEDIUM" percent="42.2"/>
+                <highClouds id="HIGH" percent="73.4"/>
+                <temperatureProbability unit="probabilitycode" value="2"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.3"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-23T06:00:00Z" to="2015-06-23T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="14.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="18.5"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-23T18:00:00Z" to="2015-06-23T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="18.9"/>
+                <windDirection id="dd" deg="265.9" name="W"/>
+                <windSpeed id="ff" mps="2.0" beaufort="1" name="Flau vind"/>
+                <humidity value="60.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1007.3"/>
+                <cloudiness id="NN" percent="77.7"/>
+                <lowClouds id="LOW" percent="2.3"/>
+                <mediumClouds id="MEDIUM" percent="23.8"/>
+                <highClouds id="HIGH" percent="66.4"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-23T12:00:00Z" to="2015-06-23T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="3.1"/>
+                <minTemperature id="TTT" unit="celsius" value="18.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="20.6"/>
+                <symbol id="LightRain" number="9"/>
+                <symbolProbability unit="probabilitycode" value="2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-24T00:00:00Z" to="2015-06-24T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="14.5"/>
+                <windDirection id="dd" deg="120.9" name="SE"/>
+                <windSpeed id="ff" mps="1.5" beaufort="1" name="Flau vind"/>
+                <humidity value="90.2" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.2"/>
+                <cloudiness id="NN" percent="56.2"/>
+                <lowClouds id="LOW" percent="0.8"/>
+                <mediumClouds id="MEDIUM" percent="17.2"/>
+                <highClouds id="HIGH" percent="21.9"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="13.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-23T18:00:00Z" to="2015-06-24T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="14.5"/>
+                <maxTemperature id="TTT" unit="celsius" value="19.8"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-24T06:00:00Z" to="2015-06-24T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="15.5"/>
+                <windDirection id="dd" deg="318.6" name="NW"/>
+                <windSpeed id="ff" mps="1.6" beaufort="1" name="Flau vind"/>
+                <humidity value="82.4" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.1"/>
+                <cloudiness id="NN" percent="67.2"/>
+                <lowClouds id="LOW" percent="3.9"/>
+                <mediumClouds id="MEDIUM" percent="24.6"/>
+                <highClouds id="HIGH" percent="7.8"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.6"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-24T00:00:00Z" to="2015-06-24T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="11.9"/>
+                <maxTemperature id="TTT" unit="celsius" value="15.5"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-24T12:00:00Z" to="2015-06-24T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="20.5"/>
+                <windDirection id="dd" deg="172.7" name="S"/>
+                <windSpeed id="ff" mps="2.5" beaufort="2" name="Svak vind"/>
+                <humidity value="49.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.5"/>
+                <cloudiness id="NN" percent="63.3"/>
+                <lowClouds id="LOW" percent="6.2"/>
+                <mediumClouds id="MEDIUM" percent="38.3"/>
+                <highClouds id="HIGH" percent="17.2"/>
+                <temperatureProbability unit="probabilitycode" value="2"/>
+                <windProbability unit="probabilitycode" value="1"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-24T06:00:00Z" to="2015-06-24T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="14.9"/>
+                <maxTemperature id="TTT" unit="celsius" value="20.5"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-24T18:00:00Z" to="2015-06-24T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="18.4"/>
+                <windDirection id="dd" deg="45.8" name="NE"/>
+                <windSpeed id="ff" mps="2.1" beaufort="1" name="Flau vind"/>
+                <humidity value="61.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.4"/>
+                <cloudiness id="NN" percent="76.6"/>
+                <lowClouds id="LOW" percent="0.8"/>
+                <mediumClouds id="MEDIUM" percent="39.8"/>
+                <highClouds id="HIGH" percent="40.6"/>
+                <temperatureProbability unit="probabilitycode" value="2"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-24T12:00:00Z" to="2015-06-24T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="18.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="20.6"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-25T00:00:00Z" to="2015-06-25T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="13.8"/>
+                <windDirection id="dd" deg="202.6" name="SW"/>
+                <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"/>
+                <humidity value="92.6" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.7"/>
+                <cloudiness id="NN" percent="57.4"/>
+                <lowClouds id="LOW" percent="9.0"/>
+                <mediumClouds id="MEDIUM" percent="31.6"/>
+                <highClouds id="HIGH" percent="10.2"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-24T18:00:00Z" to="2015-06-25T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="13.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="18.9"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-25T06:00:00Z" to="2015-06-25T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="14.2"/>
+                <windDirection id="dd" deg="124.2" name="SE"/>
+                <windSpeed id="ff" mps="1.7" beaufort="1" name="Flau vind"/>
+                <humidity value="81.9" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.7"/>
+                <cloudiness id="NN" percent="69.5"/>
+                <lowClouds id="LOW" percent="29.3"/>
+                <mediumClouds id="MEDIUM" percent="11.3"/>
+                <highClouds id="HIGH" percent="6.6"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="1"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-25T00:00:00Z" to="2015-06-25T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="11.4"/>
+                <maxTemperature id="TTT" unit="celsius" value="14.2"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-25T12:00:00Z" to="2015-06-25T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="18.9"/>
+                <windDirection id="dd" deg="192.5" name="S"/>
+                <windSpeed id="ff" mps="2.5" beaufort="2" name="Svak vind"/>
+                <humidity value="54.5" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.8"/>
+                <cloudiness id="NN" percent="89.1"/>
+                <lowClouds id="LOW" percent="21.1"/>
+                <mediumClouds id="MEDIUM" percent="46.1"/>
+                <highClouds id="HIGH" percent="10.9"/>
+                <temperatureProbability unit="probabilitycode" value="2"/>
+                <windProbability unit="probabilitycode" value="1"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.5"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-25T06:00:00Z" to="2015-06-25T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="13.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="18.9"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-25T18:00:00Z" to="2015-06-25T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="17.8"/>
+                <windDirection id="dd" deg="177.3" name="S"/>
+                <windSpeed id="ff" mps="2.7" beaufort="2" name="Svak vind"/>
+                <humidity value="69.3" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.7"/>
+                <cloudiness id="NN" percent="84.4"/>
+                <lowClouds id="LOW" percent="2.3"/>
+                <mediumClouds id="MEDIUM" percent="31.2"/>
+                <highClouds id="HIGH" percent="48.4"/>
+                <temperatureProbability unit="probabilitycode" value="2"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.2"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-25T12:00:00Z" to="2015-06-25T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="17.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="20.4"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-26T00:00:00Z" to="2015-06-26T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="14.0"/>
+                <windDirection id="dd" deg="149.7" name="SE"/>
+                <windSpeed id="ff" mps="1.5" beaufort="1" name="Flau vind"/>
+                <humidity value="92.4" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.9"/>
+                <cloudiness id="NN" percent="78.5"/>
+                <lowClouds id="LOW" percent="27.7"/>
+                <mediumClouds id="MEDIUM" percent="23.8"/>
+                <highClouds id="HIGH" percent="33.6"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-25T18:00:00Z" to="2015-06-26T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="14.0"/>
+                <maxTemperature id="TTT" unit="celsius" value="18.6"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-26T06:00:00Z" to="2015-06-26T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="14.0"/>
+                <windDirection id="dd" deg="180.8" name="S"/>
+                <windSpeed id="ff" mps="1.8" beaufort="1" name="Flau vind"/>
+                <humidity value="82.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1010.1"/>
+                <cloudiness id="NN" percent="98.4"/>
+                <lowClouds id="LOW" percent="84.4"/>
+                <mediumClouds id="MEDIUM" percent="27.3"/>
+                <highClouds id="HIGH" percent="44.5"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.0"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-26T00:00:00Z" to="2015-06-26T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="11.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="14.0"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-26T12:00:00Z" to="2015-06-26T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="18.0"/>
+                <windDirection id="dd" deg="188.1" name="S"/>
+                <windSpeed id="ff" mps="2.9" beaufort="2" name="Svak vind"/>
+                <humidity value="57.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1009.5"/>
+                <cloudiness id="NN" percent="91.4"/>
+                <lowClouds id="LOW" percent="38.7"/>
+                <mediumClouds id="MEDIUM" percent="52.0"/>
+                <highClouds id="HIGH" percent="10.5"/>
+                <temperatureProbability unit="probabilitycode" value="2"/>
+                <windProbability unit="probabilitycode" value="1"/>
+                <dewpointTemperature id="TD" unit="celsius" value="9.4"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-26T06:00:00Z" to="2015-06-26T12:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="13.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="18.0"/>
+                <symbol id="Cloud" number="4"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-26T18:00:00Z" to="2015-06-26T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="17.1"/>
+                <windDirection id="dd" deg="144.7" name="SE"/>
+                <windSpeed id="ff" mps="3.1" beaufort="2" name="Svak vind"/>
+                <humidity value="70.0" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.0"/>
+                <cloudiness id="NN" percent="87.5"/>
+                <lowClouds id="LOW" percent="18.0"/>
+                <mediumClouds id="MEDIUM" percent="30.5"/>
+                <highClouds id="HIGH" percent="59.4"/>
+                <temperatureProbability unit="probabilitycode" value="2"/>
+                <windProbability unit="probabilitycode" value="1"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-26T12:00:00Z" to="2015-06-26T18:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="16.8"/>
+                <maxTemperature id="TTT" unit="celsius" value="19.1"/>
+                <symbol id="PartlyCloud" number="3"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-27T00:00:00Z" to="2015-06-27T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="13.6"/>
+                <windDirection id="dd" deg="141.0" name="SE"/>
+                <windSpeed id="ff" mps="2.0" beaufort="1" name="Flau vind"/>
+                <humidity value="95.1" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1007.1"/>
+                <cloudiness id="NN" percent="100.0"/>
+                <lowClouds id="LOW" percent="53.9"/>
+                <mediumClouds id="MEDIUM" percent="78.9"/>
+                <highClouds id="HIGH" percent="88.3"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="0"/>
+                <dewpointTemperature id="TD" unit="celsius" value="12.9"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-26T18:00:00Z" to="2015-06-27T00:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="0.0"/>
+                <minTemperature id="TTT" unit="celsius" value="13.6"/>
+                <maxTemperature id="TTT" unit="celsius" value="16.5"/>
+                <symbol id="Cloud" number="4"/>
+                <symbolProbability unit="probabilitycode" value="1"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-27T06:00:00Z" to="2015-06-27T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <temperature id="TTT" unit="celsius" value="13.8"/>
+                <windDirection id="dd" deg="13.0" name="N"/>
+                <windSpeed id="ff" mps="2.2" beaufort="2" name="Svak vind"/>
+                <humidity value="86.7" unit="percent"/>
+                <pressure id="pr" unit="hPa" value="1008.7"/>
+                <cloudiness id="NN" percent="97.3"/>
+                <lowClouds id="LOW" percent="65.2"/>
+                <mediumClouds id="MEDIUM" percent="35.5"/>
+                <highClouds id="HIGH" percent="64.5"/>
+                <temperatureProbability unit="probabilitycode" value="1"/>
+                <windProbability unit="probabilitycode" value="1"/>
+                <dewpointTemperature id="TD" unit="celsius" value="11.7"/>
+            </location>
+        </time>
+        <time datatype="forecast" from="2015-06-27T00:00:00Z" to="2015-06-27T06:00:00Z">
+            <location altitude="10" latitude="59.9127" longitude="10.7461">
+                <precipitation unit="mm" value="2.2"/>
+                <minTemperature id="TTT" unit="celsius" value="11.7"/>
+                <maxTemperature id="TTT" unit="celsius" value="13.8"/>
+                <symbol id="LightRain" number="9"/>
+                <symbolProbability unit="probabilitycode" value="2"/>
+            </location>
+        </time>
+    </product>
+</weatherdata>
